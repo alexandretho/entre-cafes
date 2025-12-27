@@ -1,8 +1,8 @@
-baseURL: https://alexandretho.github.io/entre-cafes/
+baseURL: https://entre-cafes.deployman.com.br/
 languageCode: en-US
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
-title: Papo Doido
+title: HPapo de Doido
 theme: "hugo-narrow"
 
 hasCJKLanguage: true
