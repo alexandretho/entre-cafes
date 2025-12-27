@@ -16,7 +16,8 @@ author:
   name: "Alexandre Santos"
   title: "Exercitando pensamentos e escrita sem IA"
   description: "DevOps com pensamentos e escrita"
-  avatar: "/images/avatar.png"
+  #avatar: "/images/avatar.png"
+  avatar: "https://alexandretho.github.io/entre-cafes/images/avatar.png"
   social:
     - name: "GitHub"
       url: "https://github.com/username"
