@@ -2,7 +2,7 @@ baseURL: https://entre-cafes.deployman.com.br/
 languageCode: en-US
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
-title: HPapo de Doido
+title: Papo de Doido
 theme: "hugo-narrow"
 
 hasCJKLanguage: true
