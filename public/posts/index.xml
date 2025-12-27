@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Narrow -Titulo</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Hugo Narrow -Titulo</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 26 Dec 2025 21:06:20 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O mundo atual visto por Freud, Lacan e Winnicott, entre um café e outro</title>
+      <link>http://localhost:1313/posts/o-mundo-atual-visto-por-freud-lacan-e-winnicott-entre-um-caf%C3%A9-e-outro/</link>
+      <pubDate>Fri, 26 Dec 2025 21:06:20 -0300</pubDate>
+      <guid>http://localhost:1313/posts/o-mundo-atual-visto-por-freud-lacan-e-winnicott-entre-um-caf%C3%A9-e-outro/</guid>
+      <description>&lt;h2 id=&#34;psicanálise-visto-por-um-leigo&#34;&gt;Psicanálise visto por um leigo&lt;/h2&gt;&#xA;&lt;p&gt;Gosto de ler muitas coisas e, esses dias, me vi lendo sobre psicanálise. Fui “ativado” porque vi um vídeo nas redes sociais de uma psicóloga psicanalista bem conhecida (caso eu encontre o vídeo novamente, deixo o link aqui). Mas no vídeo ela dizia que:&lt;/p&gt;&#xA;&#xA;  &lt;blockquote&#xA;    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6 italic transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;&#xA;    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;&#xA;      &lt;p&gt;&amp;ldquo;Não existe educação sem trauma&amp;rdquo;.&#xA;Ela explica que &lt;strong&gt;trauma vem do grego&lt;/strong&gt; e faz uma analogia com aquele “pauzinho” amarrado à árvore para que ela cresça reta e não para os lados. Quando esse apoio é retirado, fica a marca na árvore. O trauma seria justamente isso: a marca deixada pelo limite, algo que orienta o crescimento para o lado certo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meu Primeiro Post</title>
+      <link>http://localhost:1313/posts/meu-primeiro-post/</link>
+      <pubDate>Fri, 26 Dec 2025 20:46:38 -0300</pubDate>
+      <guid>http://localhost:1313/posts/meu-primeiro-post/</guid>
+      <description>&lt;p&gt;Agora sim 🚀&lt;br&gt;&#xA;Hugo Narrow rodando com a versão correta&lt;/p&gt;&#xA;&lt;p&gt;Agora só vamos testar como funciona esse rolê..&lt;/p&gt;&#xA;&lt;p&gt;A Ideia aqui é apenas exercitar a o pensamento e a escrita, se te ajudar tudo bem se não, pra mim não faz diferença..VAiiiiii&lt;/p&gt;&#xA;&lt;h2 id=&#34;topicos&#34;&gt;Topicos:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;DevOps&lt;/li&gt;&#xA;&lt;li&gt;Filosofia/Psicologia&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
