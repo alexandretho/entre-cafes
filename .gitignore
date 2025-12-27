@@ -2,6 +2,8 @@
 /public/
 .resources/
 .hugo_build.lock
+.hugo.toml_bkp
+hugo.toml_bkp
 
 # OS / editor
 .DS_Store

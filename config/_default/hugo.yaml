@@ -1,8 +1,8 @@
-baseURL: https://hugo-narrow.vercel.app/
+baseURL: https://alexandretho.github.io/entre-cafes/
 languageCode: en-US
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
-title: Hugo Narrow -Titulo
+title: Papo Doido
 theme: "hugo-narrow"
 
 hasCJKLanguage: true
